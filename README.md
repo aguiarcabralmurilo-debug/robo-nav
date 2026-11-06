@@ -7,3 +7,4 @@ Robô autônomo usando a plataforma Arduino que consegue perceber o ambiente e s
 Murilo Aguiar Cabral
 ## Simulador do Projeto
 [Tinkercad](https://www.tinkercad.com/things/99OjZ4JxD7h-cr7-robozao)
+<img width="2472" height="3624" alt="IMG_20261105_214231" src="https://github.com/user-attachments/assets/b40b842c-f873-4be9-998e-12866808819f" />
